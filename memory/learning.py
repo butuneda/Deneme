@@ -1,0 +1,1 @@
+# AI öğrenme sistemi kodları
